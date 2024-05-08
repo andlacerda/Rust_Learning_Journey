@@ -1,0 +1,1 @@
+C:\Users\allla\OneDrive\Desktop\PROJETOS\Rust_Learning_Journey\Project1_Cat_Say\target\debug\Project1_Cat_Say.exe: C:\Users\allla\OneDrive\Desktop\PROJETOS\Rust_Learning_Journey\Project1_Cat_Say\src\main.rs
